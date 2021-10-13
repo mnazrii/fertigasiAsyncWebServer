@@ -10,6 +10,6 @@ Hardware:
 
 Project - use PlatformIO
 
-Library 
+Library:
 - adafruit RTC library
 - AsyncWebServer
